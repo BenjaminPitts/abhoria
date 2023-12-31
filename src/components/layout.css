@@ -1,0 +1,134 @@
+body {
+  background: #090909;
+  color: ivory;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color:ivory;
+  font-size: 25px;
+}
+a:hover {
+  color:gray;
+  cursor: pointer;
+}
+iframe {
+  width: 30rem;
+  height: 25rem;
+}
+header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  background: black;
+}
+input, textarea {
+  width: 50rem;
+  background: white;
+}
+input:hover, textarea:hover {
+  background: ivory;
+}
+button {
+  width: 12rem;
+  margin: 2rem;
+  padding: .5rem;
+  font-weight: bold;
+}
+button:hover {
+  cursor: pointer;
+  background: gray;
+}
+.nav {
+  font-size: 35px;
+  margin-bottom: 2rem;
+}
+.main {
+  background: black;
+  color: gray;
+  text-align: center;
+}
+.text-block {
+  color: gray;
+  margin: 1rem 5rem;
+}
+.bio-text-block {
+  color: gray;
+  margin: 1rem 6rem;
+  text-align: left;
+  font-size: 20px;
+}
+.inner-box {
+  margin: 0 2rem;
+  padding: 1rem;
+}
+.outer-box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.index-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: stretch;
+}
+.index-inner-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+.iframe2 {
+  width: 27rem;
+  height: 55rem;
+}
+.homepage {
+  font-size: 25px;
+}
+.contact, .press {
+  color: gold;
+}
+.socials {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+
+@media only screen and (max-width: 700px)
+{
+a {
+  font-size: 16px;
+ }
+h2,h3 {
+  font-size: 18px;
+}
+input, textarea {
+  width: 22rem;
+  background: white;
+}
+iframe {
+  width: 22rem;
+  height: 25rem;
+} 
+
+.iframe2 {
+  width: 20rem;
+  height: 48rem;
+}
+.bio-text-block {
+  margin: .5rem 1rem;
+}
+.index-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+}
