@@ -9,6 +9,7 @@ const Press = () => (
 <div class='press'>
     
   <h3>11/17/2023<a href='https://prostheticrecords.com/news/abhoria-announce-new-album-depths-lead-single-and-music-video-the-well-out-now' target='blank'> Prosthetic Records - Depths Announcement </a></h3>
+  <br />
   <h3>2/16/2022<a href='https://www.teethofthedivine.com/reviews/abhoria-abhoria/' target='blank'> Teeth of the Divine</a></h3>
   <h3>2/5/2022<a href='https://distortedsoundmag.com/album-review-abhoria-abhoria/' target='blank'> Distorted Sound</a></h3>
   <h3>2/5/2022<a href='https://v13.net/2022/02/abhoria-abhoria-album-review/' target='blank'> V13</a></h3>
@@ -20,6 +21,7 @@ const Press = () => (
   <h3>1/26/2022<a href='https://www.moshpitnation.com/abhoria-abhoria/' target='blank'> Moshpit Nation</a></h3>
 
 </div>
+<br />
   </Layout>
 )
 

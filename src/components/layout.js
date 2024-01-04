@@ -67,7 +67,7 @@ const Layout = ({ children }) => {
     alt="Abhoria - Instagram"
     style={{ margin: `1rem 2rem` }}
   /></a>
-  <a href='https://twitter.com/nightwraithband' target='_blank' rel="noreferrer">
+  <a href='https://twitter.com/abhoriametal' target='_blank' rel="noreferrer">
   <StaticImage
     src="../images/twitter-icon.png"
     width={40}

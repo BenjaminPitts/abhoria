@@ -6,27 +6,29 @@ import Seo from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-  <h1>Stream the new album, <i> Depths</i>, now!</h1>
+  <h1>Stream the new single <i>"The Well"</i>, from the upcoming album <i>"Depths"</i></h1>
+  <h2>Released worlwide on 1/19/2024</h2>
 <div class='index-box'>
 <div class='index-inner-box'>
       <StaticImage
         src="../images/abhoria-promo3.jpg"
         width={500}
-        quality={60}
+        quality={80}
         formats={["AUTO", "WEBP", "AVIF"]}
         alt="Abhoria"
-        style={{ margin: `1rem` }}
+        style={{ margin: `1rem`, border:`5px solid black` }}
       />
-      <StaticImage
-        src="../images/abhoria-live1.jpg"
-        width={500}
-        quality={60}
-        formats={["AUTO", "WEBP", "AVIF"]}
-        alt="Abhoria"
-        style={{ margin: `1rem` }}
-      />
+
+<StaticImage
+      src="../images/abhoria-live1.jpg"
+      width={500}
+      quality={80}
+      formats={["AUTO", "WEBP", "AVIF"]}
+      alt="Abhoria"
+      style={{ margin: `1rem`, border:`5px solid black` }}
+    />
 </div>
-      <iframe class='iframe2' src="https://bandcamp.com/EmbeddedPlayer/album=3760641137/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" title="NW-Offering" seamless><a href="https://nightwraith.bandcamp.com/album/offering">Offering by NightWraith</a></iframe>
+  <iframe style={{margin: `1rem`, width: `350px`, height: `470px`}} title="Abhoria-Depths" src="https://bandcamp.com/EmbeddedPlayer/album=3627524110/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless>"<a href="https://abhoria.bandcamp.com/album/depths">DEPTHS by Abhoria</a></iframe>
 </div>
   </Layout>
 )

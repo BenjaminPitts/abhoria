@@ -5,7 +5,7 @@ class Form extends React.Component {
     return <>
 
     <br />
-    <form method="post" netlify-honeypot="bot-field" data-netlify="true" name="contact" data-netlify-recaptcha="true" netifly>
+    <form method="post" netlify-honeypot="bot-field" data-netlify="true" action="/" name="contact" netifly>
     <input type="hidden" name="bot-field" />
     <input type="hidden" name="form-name" value="contact" />
     <label>

@@ -10,13 +10,16 @@ const Videos = () => (
 <div class='outer-box'>
 
   <div class='inner-box'>
-  <iframe src="https://bandcamp.com/VideoEmbed?track=1101588386&bgcol=333333&linkcol=0f91ff" mozallowfullscreen="1" webkitallowfullscreen="1" allowfullscreen="1" title="NW-HedonicAdaptation" seamless></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3vuMrLj6ViQ?si=XxLwPNAGzOcG01XL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <div class='inner-box'>
-  <iframe src="https://bandcamp.com/VideoEmbed?track=3214292848&bgcol=333333&linkcol=0f91ff" mozallowfullscreen="1" webkitallowfullscreen="1" allowfullscreen="1" title="NW-Genesthai" seamless></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/d3XkglZfIus?si=AHxMjjkwrVqP_Tnp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <div class='inner-box'>
-  <iframe src="https://bandcamp.com/VideoEmbed?track=1353052683&bgcol=333333&linkcol=0f91ff" mozallowfullscreen="1" webkitallowfullscreen="1" allowfullscreen="1" title="NW-Beguiler-Live" seamless></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/akPmoe0FBgk?si=AxygPNIzCidX_jG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <div class='inner-box'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/TCf06tZ0F00?si=uzgJ5tpTMP62f3NG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
 
 </div>
