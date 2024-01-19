@@ -14,7 +14,7 @@ const Contact = () => (
     <h3>Bandcamp: <a href='https://abhoria.bandcamp.com/' target='blank'>https://abhoria.bandcamp.com/</a></h3>
     <h3>Facebook: <a href='https://www.facebook.com/AbhoriaMetal' target='blank'>https://www.facebook.com/AbhoriaMetal</a></h3>
     <h3>Instagram: <a href='https://www.instagram.com/abhoriametal/' target='blank'>https://www.instagram.com/abhoriametal/</a></h3>
-    <h3>Twitter: <a href='https://twitter.com/abhoriametal' target='blank'>Twitter</a></h3>
+    <h3>Twitter: <a href='https://twitter.com/abhoriametal' target='blank'>https://twitter.com/abhoriametal</a></h3>
   </div>
   <br />
   <h3>Or send us a message directly:</h3>

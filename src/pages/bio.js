@@ -16,8 +16,9 @@ const Bio = () => (
       style={{ margin: `1rem` }}
     />
 <div class='bio-text-block'>
-<h3>Aggressive, '90s-inspired black metal, with modern production and no politics. For fans of Immortal, Dark Funeral and Emperor. Featuring members of Ashen Horde, In the Company of Serpents, and Vimana.
-  New album, Depths, was released in January 2024 from Prosthetic Records.</h3>
+<h3>Aggressive, 90s-inspired black metal, with modern production and no politics. For fans of Immortal, Dark Funeral and Emperor. Featuring members of Ashen Horde, In the Company of Serpents, NightWraith, and Vimana.
+The new album, "Depths", was released January 19th, 2024 on <a href ='https://www.prostheticrecords.com/' target='blank'> Prosthetic Records</a>.</h3>
+
 <br />
 Abhoria was formed by guitarist Trevor Portz (Ashen Horde) in 2018, who was seeking to get back to his
 black metal roots. Initially intended to be a band that celebrated the ‘90s era of black metal in all its
@@ -25,7 +26,7 @@ black metal roots. Initially intended to be a band that celebrated the ‘90s er
 blend of aggressive, and occasionally progressive, black metal.
 <br /><br />
 Portz drafted other seasoned players, including bassist Igor Panazewicz (Vimana, NightWraith) and
-vocalist Walthrax (ex-Catheter). Along with drummer Jaud, they worked on the album completely
+vocalist Walthrax (ex-Catheter). Along with drummer JS, they worked on the album completely
 remotely, with Shane Howard (Martiden) pulling everything together at Sawn & Quartered Studios.
 The band signed a deal with Prosthetic Records, and released their self-titled debut in February of 2021.
 The album received immense critical praise almost across the board, with Metal Temple calling the
@@ -44,16 +45,16 @@ introduced on the debut.
 <h3>While the groundwork for the lyrical content on Depths was laid in the dystopian-inspired songs of its predecessor,
 founder Trevor Portz’s vision is more fully realized on their second full-length. Whilst not quite a concept album,
 there is a thread that runs between each track; each unveils a different extreme scenario or revelatory terror for the surviving inhabitants in a hellish world.
-The nightmarish anthology details different Orwellian scenarios where the human condition is laid bare with all its ugly possibilities offered up for examination.</h3>
+Complete with artwork by Dan Seagrave (Entombed, Gorguts), the nightmarish anthology details different Orwellian scenarios where the human condition is laid bare with all its ugly possibilities offered up for examination.</h3>
 <br />
-Standout track, The Well, tells the tale of a group of refugees escaping a compromised city in the aftermath of a war. Exhausted, dehydrated and losing hope,
+The standout track, The Well, tells the tale of a group of refugees escaping a compromised city in the aftermath of a war. Exhausted, dehydrated and losing hope,
 they come across a natural water source. Relieved, their thirst is slaked... but the relief is temporary, as they soon discover the water is tainted.
 Only one among their number doesn’t drink from the poisoned “well,” thus forced to watch helplessly as their friends perish agonizingly. 
 he story was inspired by Montezuma Well in Arizona, where there is a high level of arsenic in the water, rendering it a tantalizingly dangerous prospect for many generations of people.
 <br /><br />
 2023 saw the band finally hitting the stage, beginning with a handful of shows with Denver-based
 Weaponizer. A full West Coast tour is also booked for March of 2024 to coincide with the release of
-“Depths which will be released worldwide on 1/19/2024”
+“Depths" which was released worldwide on 1/19/2024 via Prosthetic Records.
 <br /><br />
 </div>
 

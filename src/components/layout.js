@@ -47,7 +47,7 @@ const Layout = ({ children }) => {
         >
         <Link to="/" class='homepage'>Back to Homepage</Link>
         <br /><br />
-<a href ='https://drive.google.com/file/d/1dyTImWR_JS4Mz14bGX3n0iVab7pcVPBR/view?usp=sharing' target='_blank'rel="noreferrer" download>Dowload Logo </a>
+<a href ='https://drive.google.com/file/d/1dyTImWR_JS4Mz14bGX3n0iVab7pcVPBR/view?usp=sharing' target='_blank'rel="noreferrer" download>Dowload Logo</a>
   <p class='socials'>
   <a href='https://www.facebook.com/AbhoriaMetal' target='_blank' rel="noreferrer">
   <StaticImage
