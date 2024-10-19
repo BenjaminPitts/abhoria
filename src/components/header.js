@@ -27,7 +27,6 @@ const Header = ({ siteTitle }) => (
     </Link>
 
     <div class='nav'>
-    <Link to="/" class='link'>Home</Link> |
     <Link to="/bio/" class='link'> Bio</Link> |
     <Link to='/videos/' class='link'> Videos</Link> |
     <Link to='https://abhoria.bandcamp.com/merch' class='link' target='blank'> Merch</Link> |
