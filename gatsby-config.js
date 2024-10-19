@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Abhoria`,
-    description: `Abhoria Offical Website. Abhoria is a dystopian black metal band founded in 2018 - Los Angeles, CA USA`,
+    description: `Abhoria - Offical Website. Abhoria is a dystopian blackened death metal band founded in 2018 - Los Angeles, CA USA`,
     author: `benjaminpitts`,
     siteUrl: `https://abhoria.com`,
   },

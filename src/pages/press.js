@@ -8,7 +8,7 @@ const Press = () => (
     <h1>Press</h1>
 <div class='press'>
 
-  <h3>1/31/2024<a href='https://www.teethofthedivine.com/reviews/abhoria-depths/' target='blank'> Teeth of the Divine</a></h3>    
+  <h3>1/31/2024<a href='https://www.teethofthedivine.com/reviews/abhoria-depths/' target='blank'> Teeth of the Divine</a></h3>
   <h3>1/22/2024<a href='https://musipediaofmetal.blogspot.com/2024/01/reviews-abhoria-tenside-damian-wilson.html' target='blank'> Musipedia of Metal</a></h3>
   <h3>1/22/2024<a href='https://avenoctum.com/2024/01/22/abhoria-depths-prosthetic-records/' target='blank'> Ave Noctum</a></h3>
   <h3>1/19/2024<a href='https://heavymusichq.com/heavy-music-hq-reviews-week-of-january-19-2024/' target='blank'> Heavy Music HQ</a></h3>
@@ -19,6 +19,7 @@ const Press = () => (
   <h3>1/17/2024<a href='https://www.invisibleoranges.com/abhoria-depths-track-by-track/' target='blank'> Invisible Oranges</a></h3>
   <h3>1/17/2024<a href='http://www.demonic-nights.at/2024/01/abhoria-depths/' target='blank'> Demonic Nights (GER)</a></h3>
   <h3>1/15/2024<a href='https://www.gbhbl.com/album-review-depths-by-abhoria-prosthetic-records/' target='blank'> Games, Brrrains, and a Headbanging Life</a></h3>
+  <br />
   <h3>11/17/2023<a href='https://prostheticrecords.com/news/abhoria-announce-new-album-depths-lead-single-and-music-video-the-well-out-now' target='blank'> Prosthetic Records - Depths Announcement </a></h3>
   <br />
   <h3>2/16/2022<a href='https://www.teethofthedivine.com/reviews/abhoria-abhoria/' target='blank'> Teeth of the Divine</a></h3>

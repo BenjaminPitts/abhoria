@@ -12,6 +12,9 @@ a:hover {
   color:gray;
   cursor: pointer;
 }
+h1, h3 {
+  color: gray;
+}
 iframe {
   width: 30rem;
   height: 25rem;
@@ -90,9 +93,7 @@ button:hover {
 .homepage {
   font-size: 25px;
 }
-.contact, .press {
-  color: gold;
-}
+
 .socials {
   display: flex;
   flex-direction: row;
@@ -116,7 +117,7 @@ input, textarea {
 iframe {
   width: 22rem;
   height: 25rem;
-} 
+}
 
 .iframe2 {
   width: 20rem;
