@@ -47,19 +47,18 @@ founder Trevor Portz’s vision is more fully realized on their second full-leng
 there is a thread that runs between each track; each unveils a different extreme scenario or revelatory terror for the surviving inhabitants in a hellish world.
 Complete with artwork by Dan Seagrave (Entombed, Gorguts), the nightmarish anthology details different Orwellian scenarios where the human condition is laid bare with all its ugly possibilities offered up for examination.</h3>
 <br />
-The standout track, The Well, tells the tale of a group of refugees escaping a compromised city in the aftermath of a war. Exhausted, dehydrated and losing hope,
+The standout track, 'The Well', tells the tale of a group of refugees escaping a compromised city in the aftermath of a war. Exhausted, dehydrated and losing hope,
 they come across a natural water source. Relieved, their thirst is slaked... but the relief is temporary, as they soon discover the water is tainted.
-Only one among their number doesn’t drink from the poisoned “well,” thus forced to watch helplessly as their friends perish agonizingly. 
+Only one among their number doesn’t drink from the poisoned "well", thus forced to watch helplessly as their friends perish agonizingly. 
 he story was inspired by Montezuma Well in Arizona, where there is a high level of arsenic in the water, rendering it a tantalizingly dangerous prospect for many generations of people.
 <br /><br />
-2023 saw the band finally hitting the stage, beginning with a handful of shows with Denver-based
-Weaponizer. A full West Coast tour is also booked for March of 2024 to coincide with the release of
-“Depths" which was released worldwide on 1/19/2024 via Prosthetic Records.
+2023 saw the band finally hitting the stage, and US touring began in 2024 to coincide with the release of
+“Depths" - which was released worldwide on 1/19/2024 via Prosthetic Records.
 <br /><br />
 </div>
 
   </Layout>
-  
+
 )
 
 export const Head = () => <Seo title="Bio" />
