@@ -27,28 +27,14 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
-      <div
-        style={{
-
-          margin: `0 auto`,
-          maxWidth: `var(--size-content)`,
-          padding: `var(--size-gutter)`,
-        }}
-      >
+      <div className="site-shell">
         <main>{children}</main>
-        <footer
-          style={{
-            backgroundColor: `black`,
-            marginTop: `var(--space-5)`,
-            fontSize: `var(--font-sm)`,
-            padding: `3rem`,
-            textAlign: `center`
-          }}
-        >
-        <Link to="/" class='homepage'>Back to Homepage</Link>
+      </div>
+      <footer className="site-footer">
+        <Link to="/" className="homepage">Back to Homepage</Link>
         <br /><br />
-<a href ='https://drive.google.com/file/d/1dyTImWR_JS4Mz14bGX3n0iVab7pcVPBR/view?usp=sharing' target='_blank'rel="noreferrer" download>Dowload Logo</a>
-  <p class='socials'>
+<a href="https://drive.google.com/file/d/1dyTImWR_JS4Mz14bGX3n0iVab7pcVPBR/view?usp=sharing" target="_blank" rel="noreferrer">Download logo</a>
+  <div className="socials">
   <a href='https://www.facebook.com/AbhoriaMetal' target='_blank' rel="noreferrer">
   <StaticImage
     src="../images/fb-icon.png"
@@ -77,11 +63,10 @@ const Layout = ({ children }) => {
     style={{ margin: `1rem 2rem` }}
   />
   </a>
-</p>
+</div>
 
           © {new Date().getFullYear()} &middot; Abhoria
-        </footer>
-      </div>
+      </footer>
     </>
   )
 }
