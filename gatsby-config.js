@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Abhoria`,
-    description: `Abhoria - Offical Website. Abhoria is a dystopian blackened death metal band founded in 2018 - Los Angeles, CA USA`,
+    description: `Abhoria is a dystopian blackened death metal band founded in 2018 in Los Angeles, California.`,
     author: `benjaminpitts`,
     siteUrl: `https://abhoria.com`,
   },
@@ -25,13 +25,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Abhoria`,
+        short_name: `Abhoria`,
         start_url: `/`,
-        background_color: `#663399`,
-        // This will impact how browsers show your PWA/website
-        // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#663399`,
+        background_color: `#090909`,
+        theme_color: `#090909`,
         display: `minimal-ui`,
         icon: `src/images/depths.jpeg`, // This path is relative to the root of the site.
       },
