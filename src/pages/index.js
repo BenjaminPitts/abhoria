@@ -22,7 +22,11 @@ const BandsintownWidget = () => {
       <div
         className="bit-widget-initializer"
         data-artist-name="id_15537419"
-        data-app-id="48301e7c05d8d321cbb639a5718c1"
+        data-app-id="48301e7c05d8d321cbb639a5718c1d76"
+        data-auto-style="false"
+        data-background-color="rgba(0,0,0,1)"
+        data-separator-color="rgba(80,80,80,1)"
+        data-text-color="#e7e7e2"
       />
     </div>
   )
@@ -42,7 +46,7 @@ const IndexPage = () => (
         alt="Abhoria performing live on stage"
       />
 
-<h3>Upcoming Shows:</h3>
+<h3 className="upcoming-shows">Upcoming Shows:</h3>
 <BandsintownWidget />
 
 </div>

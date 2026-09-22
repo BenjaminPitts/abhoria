@@ -141,13 +141,13 @@ iframe {
 
 .tour-widget {
   border: 1px solid var(--color-black);
-  height: 17.5rem;
+  height: 31rem;
   overflow-y: auto;
 }
 
 .bandcamp-embed {
   background: var(--color-surface);
-  height: 625px;
+  height: 52rem;
 }
 
 .press-quote {
