@@ -141,13 +141,13 @@ iframe {
 
 .tour-widget {
   border: 1px solid var(--color-black);
-  height: 31rem;
+  height: 22rem;
   overflow-y: auto;
 }
 
 .bandcamp-embed {
   background: var(--color-surface);
-  height: 52rem;
+  height: 44rem;
 }
 
 .press-quote {
@@ -192,6 +192,18 @@ iframe {
 .inner-box {
   margin: 0;
   padding: 0;
+}
+
+.videos-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.videos-grid iframe {
+  aspect-ratio: 16 / 9;
+  display: block;
+  height: auto;
+  width: 100%;
 }
 
 .iframe2 {
@@ -242,6 +254,15 @@ button:hover {
   justify-content: center;
 }
 
+.socials a .gatsby-image-wrapper {
+  transition: filter 150ms ease;
+}
+
+.socials a:hover .gatsby-image-wrapper,
+.socials a:focus-visible .gatsby-image-wrapper {
+  filter: brightness(0.8);
+}
+
 @media (max-width: 760px) {
   .site-header {
     padding-top: 1.25rem;
@@ -255,6 +276,10 @@ button:hover {
 
   .index-box {
     grid-template-columns: minmax(0, 350px);
+  }
+
+  .videos-grid {
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .bandcamp-embed {

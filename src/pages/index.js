@@ -34,7 +34,7 @@ const BandsintownWidget = () => {
 
 const IndexPage = () => (
   <Layout>
-  <h1 className="homepage-announcement">A new full-length album is coming in 2026, courtesy of <a href="https://blacklionrecords.bandcamp.com/" target="_blank" rel="noreferrer">Black Lion Records</a></h1>
+  <h1 className="homepage-announcement">A new full-length album is coming in early 2027, courtesy of <a href="https://blacklionrecords.bandcamp.com/" target="_blank" rel="noreferrer">Black Lion Records</a></h1>
 <div className="index-box">
 <div className="index-inner-box">
       <StaticImage
